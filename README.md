@@ -1,4 +1,4 @@
-# 📊 Sales & Inventory Dashboard (Excel)
+# 📊 Sales Analytics Dashboard (Excel)
 
 ## 📖 Overview
 This project contains an **Excel-based dashboard** that provides insights into:
